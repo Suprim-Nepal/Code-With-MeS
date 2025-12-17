@@ -32,7 +32,7 @@
  
 </p>
 <p>
-  📱 <b>App Development with Dart & Flutter</b>
+  📱 <b>CLoud Computing</b>
 </p>
 
 ---
