@@ -29,8 +29,7 @@
 ## 🚀 Currently Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="32"/>
+ 
 </p>
 <p>
   📱 <b>App Development with Dart & Flutter</b>
